@@ -19,7 +19,7 @@ Practice using pseudo-elements for styling extras and the CSS position property 
 ## Resources
 
 - Challange URL: [Click here](#)
-- Live Site URL: [Click here](#)
+- Live Site URL: [Click here](https://lukenso.github.io/Huddle-landing-page-with-curved-sections/)
 ## Author
 
 - LinkedIn - [Luka Koridze](https://www.linkedin.com/in/luka-koridze-4397571a4/)
