@@ -12,7 +12,7 @@ Practice using pseudo-elements for styling extras and the CSS position property 
 - Responsive Design
 - JavaScript (Email validation)
 
-## Designed for ony two devices 
+## Designed for only two devices 
 - Mobile (375px)
 - Desktop(1440px)
 
